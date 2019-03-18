@@ -1,0 +1,7 @@
+D:\C Sharp Application\Console Application\QuadraticEquationRoot\QuadraticEquationRoot\bin\Debug\QuadraticEquationRoot.exe.config
+D:\C Sharp Application\Console Application\QuadraticEquationRoot\QuadraticEquationRoot\bin\Debug\QuadraticEquationRoot.exe
+D:\C Sharp Application\Console Application\QuadraticEquationRoot\QuadraticEquationRoot\bin\Debug\QuadraticEquationRoot.pdb
+D:\C Sharp Application\Console Application\QuadraticEquationRoot\QuadraticEquationRoot\obj\Debug\QuadraticEquationRoot.csprojAssemblyReference.cache
+D:\C Sharp Application\Console Application\QuadraticEquationRoot\QuadraticEquationRoot\obj\Debug\QuadraticEquationRoot.csproj.CoreCompileInputs.cache
+D:\C Sharp Application\Console Application\QuadraticEquationRoot\QuadraticEquationRoot\obj\Debug\QuadraticEquationRoot.exe
+D:\C Sharp Application\Console Application\QuadraticEquationRoot\QuadraticEquationRoot\obj\Debug\QuadraticEquationRoot.pdb

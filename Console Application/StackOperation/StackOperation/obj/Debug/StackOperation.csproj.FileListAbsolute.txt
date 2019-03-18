@@ -1,0 +1,7 @@
+D:\C Sharp Application\Console Application\StackOperation\StackOperation\bin\Debug\StackOperation.exe.config
+D:\C Sharp Application\Console Application\StackOperation\StackOperation\bin\Debug\StackOperation.exe
+D:\C Sharp Application\Console Application\StackOperation\StackOperation\bin\Debug\StackOperation.pdb
+D:\C Sharp Application\Console Application\StackOperation\StackOperation\obj\Debug\StackOperation.csprojAssemblyReference.cache
+D:\C Sharp Application\Console Application\StackOperation\StackOperation\obj\Debug\StackOperation.csproj.CoreCompileInputs.cache
+D:\C Sharp Application\Console Application\StackOperation\StackOperation\obj\Debug\StackOperation.exe
+D:\C Sharp Application\Console Application\StackOperation\StackOperation\obj\Debug\StackOperation.pdb

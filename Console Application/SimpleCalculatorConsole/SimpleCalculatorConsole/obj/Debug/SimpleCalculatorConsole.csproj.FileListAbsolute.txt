@@ -1,0 +1,6 @@
+D:\C Sharp Application\Console Application\SimpleCalculatorConsole\SimpleCalculatorConsole\bin\Debug\SimpleCalculatorConsole.exe.config
+D:\C Sharp Application\Console Application\SimpleCalculatorConsole\SimpleCalculatorConsole\bin\Debug\SimpleCalculatorConsole.exe
+D:\C Sharp Application\Console Application\SimpleCalculatorConsole\SimpleCalculatorConsole\bin\Debug\SimpleCalculatorConsole.pdb
+D:\C Sharp Application\Console Application\SimpleCalculatorConsole\SimpleCalculatorConsole\obj\Debug\SimpleCalculatorConsole.csproj.CoreCompileInputs.cache
+D:\C Sharp Application\Console Application\SimpleCalculatorConsole\SimpleCalculatorConsole\obj\Debug\SimpleCalculatorConsole.exe
+D:\C Sharp Application\Console Application\SimpleCalculatorConsole\SimpleCalculatorConsole\obj\Debug\SimpleCalculatorConsole.pdb

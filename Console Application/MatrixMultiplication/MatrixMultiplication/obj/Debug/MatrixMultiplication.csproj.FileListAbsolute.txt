@@ -1,0 +1,6 @@
+D:\C Sharp Application\Console Application\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config
+D:\C Sharp Application\Console Application\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+D:\C Sharp Application\Console Application\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+D:\C Sharp Application\Console Application\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.CoreCompileInputs.cache
+D:\C Sharp Application\Console Application\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
+D:\C Sharp Application\Console Application\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb
